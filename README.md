@@ -1,4 +1,4 @@
-# Welcome, new student in PDOS!
+# Welcome to PDOS!
 
 If you're a new student you should introduce yourself to the rest of the group! Please don't feel shy about going around the PDOS open lab space and getting everyone's name and what they do.
 
