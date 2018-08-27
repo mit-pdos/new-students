@@ -9,3 +9,5 @@ To get you access to various things, send the following to **Tej Chajed** (tchaj
 3. if you don't want to use your GitHub public key for our git server, send a different public key.
 
 After you've done this, you'll have access to the [Getting started guide](https://github.com/mit-pdos/wiki/blob/master/new-student-getting-started.md) on the PDOS wiki, which you should read all the way through.
+
+_note for current students: go through the [new student checklist](https://github.com/mit-pdos/wiki/blob/master/onboarding/new-student-checklist.md)_
