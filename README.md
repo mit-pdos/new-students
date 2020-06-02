@@ -2,7 +2,7 @@
 
 If you're a new student you should introduce yourself to the rest of the group! Please don't feel shy about going around the PDOS open lab space and getting everyone's name and what they do.
 
-To get you access to various things, send the following to **Tej Chajed** (tchajed@mit.edu):
+To get you access to various things, send the following to **Lily Tsai** (tslilyai@mit.edu):
 
 1. the email address you want to use for the group mailing list, <pdos@csail.mit.edu>,
 2. your GitHub username,
