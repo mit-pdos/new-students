@@ -1,6 +1,6 @@
 # Welcome to PDOS!
 
-If you're a new student you should introduce yourself to the rest of the group! Please don't feel shy about going around the PDOS open lab space and getting everyone's name and what they do.
+If you're a new student you should introduce yourself to the rest of the group! Please don't feel shy about going around the PDOS open lab space and getting everyone's name and what they do (in these COVID times you should definitely not do this because you need permission to get into the building and nobody else will be in lab, but you can still do this over Zoom!).
 
 To get you access to various things, send the following to **Lily Tsai** (tslilyai@mit.edu):
 
