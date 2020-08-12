@@ -9,6 +9,8 @@ To get you access to various things, send the following to **Lily Tsai** (tslily
 3. if you don't want to use your GitHub public key for our git server, send a different public key.
 4. sign up for an account on [Keybase](https://keybase.io/), which we use for
    chat (including specific projects), and send your username.
+5. website url, if you have or want one to be associated with your name on our website
+6. any dietary restrictions
 
 After you've done this, you'll have access to the [Getting started guide](https://github.com/mit-pdos/wiki/blob/master/new-student-getting-started.md) on the PDOS wiki, which you should read all the way through.
 
